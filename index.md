@@ -1,3 +1,4 @@
 # NekoSite
-aeiou
-please work now
+Welcome.
+The companion book chapters are up top.
+Enjoy!

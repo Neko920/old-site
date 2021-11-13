@@ -1,3 +1,6 @@
+---
+title: ∣ Home ∣
+---
 # Don't Panic!
 Welcome!  
 This is a companion book to the first Hitchhiker Novel.  

@@ -2,5 +2,5 @@ remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 footer: 'Check out the place where this is hosted at <a href="https://github.com/Neko920/Neko920.github.io">GitHub</a>'
 header_pages:
-  - \Whiplash\.md
-  - \Philosophy\.md
+  - |Whiplash.md
+  - |Philosophy.md

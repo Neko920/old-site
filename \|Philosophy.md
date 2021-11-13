@@ -8,4 +8,4 @@ God refuses to prove he exists due to proof denying faith, and God is nothing wi
 Aside from the horde of theological concerns this brings up, if we process this, we realize that this is a lot like the questions of philosophy. Philosophy is mainly concerned with answering questions, which is why science was originally natural philosophy before evolving into science. A big question of both theology and philosophy is “does a god exist?”.  
 
   
-The next line takes a swerve in that it basically parodies the idea that everything is nothing in that “black is white”. It could be seen as a jab at Nihilists. But, alas, we’ll just have to leave that question to the philosophers.
+The next line takes a swerve in that it basically parodies the idea that everything is nothing in that “black is white”. It could be seen as a jab at Nihilists. But alas, we’ll just have to leave that question to the philosophers.

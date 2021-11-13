@@ -1,5 +1,6 @@
 ---
 title: ∣ Philosophy ∣
+permalink: /philo/
 ---
 # Philosophy
 

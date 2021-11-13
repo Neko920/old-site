@@ -1,5 +1,5 @@
 ---
-title: ∣Whiplash∣
+title: ∣ Whiplash ∣
 ---
 # Whiplash
 Arthur Dent’s reaction to earth being blown up is shockingly similar to how one commonly feels on a Monday. Tired. He describes the feeling as a military camp, because “part of me is always passed out”. {pg. 35}  

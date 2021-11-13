@@ -1,3 +1,6 @@
+---
+title: ∣ Philosophy ∣
+---
 # Philosophy
 
 During Arthur and Ford’s stay in Vogon prison, Ford puts a fish in Arthur’s ear that allows him to hear every language. This fish, called the Babel fish, was also apparently used to show that god doesn’t exist using the reasoning below.  

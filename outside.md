@@ -1,6 +1,6 @@
 ---
-title: ∣ Whiplash ∣
-permalink: /whip/
+title: ∣ Outside ∣
+permalink: /out/
 ---
 The very beginning of the book starts out with Arthur Dent having a hangover like no hangover before, and having to take an Ibuprofen in order to clear it up. After this, he goes to a wardrobe mirror in order to look at himself. Then, we get the punchline.  
   

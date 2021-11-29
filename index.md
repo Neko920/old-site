@@ -1,6 +1,6 @@
------
+---
 title: ∣ Home ∣
------
+---
 
 # Don't Panic!
 In 1978, the first radio brodcast of The Hitchhiker's Guide to The Galaxy was done. From that, a giant franchise exploded, with novels, films, comic books, merchandise, and even games. Even after the death of Douglas Adams in 2001, it is still one of the most popular BBC franchises ever. This serves as a companion book to the first novel, released in 1979.  

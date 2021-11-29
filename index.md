@@ -10,4 +10,7 @@ I think we somewhat forget the fact that most popular media wasn't originally on
 Please enjoy going through how the book exibits irony, how it parodies philosophy, and how the craft of this book is unmatched.  
   
   
-Click TOC to get to the table of contents, and have a great time.
+Click TOC to get to the table of contents, and have a great time.  
+  
+  
+[^1]Digital Rights Management

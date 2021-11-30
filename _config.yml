@@ -1,6 +1,2 @@
-remote_theme: b2a3e8/jekyll-theme-console
-style: hacker
-footer: 'Check the repo out at <a href="https://github.com/Neko920/Neko920.github.io">GitHub</a>'
-header_pages:
-  - toc.md
-  - index.md
+remote_theme: longpdo/neumorphism
+

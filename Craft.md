@@ -4,10 +4,8 @@
   Along with this, there is a great use of footnotes, something I wish I could easily use in Github Markdown. The footnotes give funny descriptions of backstory, like that Ford Prefect’s actual name is in a dialect that is now extinct in a “Great Collapsing Hrung Disaster of Gal./Sid./Year 03758”. If you’re wondering what a Hrung is, the book doesn’t tell you. His dad wasn’t able to teach the name to him, and thus, died of shame.  
   
   Some fiction books are mainly banal story lines and one-dimensional characters that are coded in ways just to ‘appease’ people*. I think that The Hitchhiker's Guide to the Galaxy identifies itself as a comedy of errors, in such a way that it makes it one of the best books ever written.  
-  
-  
-  
-  
-  
-  
+<br>
+<br>
+<br>
+<br>
 \*I’m specifically focusing on the phenomenon of queercoding here, if you want to know more about how trash queer represantation is usually, please watch this video by Overly Sarcastic Productions. I’m not the best person to talk about these things, hence why I am not elaborating on it further.

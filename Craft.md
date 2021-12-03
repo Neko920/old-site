@@ -8,4 +8,4 @@
 <br>
 <br>
 <br>
-\*I’m specifically focusing on the phenomenon of queercoding here, if you want to know more about how trash queer represantation is usually, please watch this video by Overly Sarcastic Productions. I’m not the best person to talk about these things, hence why I am not elaborating on it further.
+\*I’m specifically focusing on the phenomenon of queercoding here, if you want to know more about how trash queer represantation is usually, [please watch this video by Overly Sarcastic Productions.](https://www.youtube.com/watch?v=tdVv_Kws_0I) I’m not the best person to talk about these things, hence why I am not elaborating on it further.

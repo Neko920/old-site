@@ -1,4 +1,8 @@
-  # Craft
+---
+title: ∣ Craft ∣
+permalink: /craft/
+---
+# Craft
   There are many details that are just meant to serve as a funny note, just to have the reader enjoy the book. The joke that the Encyclopedia Galactica, a play on the Encyclopedia Britannica is very factual, where the Hitchhiker’s Guide to the Galaxy is very loose and gives tips on how to get wasted. The entire premise of the book running up to the answer to life being 42 is this irony of massive proportions. You expect an answer to be a long, philosophical essay, but instead it’s just one number.  
   
   Along with this, there is a great use of footnotes, something I wish I could easily use in Github Markdown. The footnotes give funny descriptions of backstory, like that Ford Prefect’s actual name is in a dialect that is now extinct in a “Great Collapsing Hrung Disaster of Gal./Sid./Year 03758”. If you’re wondering what a Hrung is, the book doesn’t tell you. His dad wasn’t able to teach the name to him, and thus, died of shame.  

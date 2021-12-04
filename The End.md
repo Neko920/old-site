@@ -1,3 +1,7 @@
+---
+title: ∣ The End ∣
+permalink: /end/
+---
 All of these examples just serve to make the book more enjoyable to the reader, something very helpful for someone like me, who basically only reads non-fiction. If you haven’t read the book, I would suggest doing so. It’s roots in pop culture are enough to read it to understand the memes, but even without that, it’s still just an enjoyable read. You really miss out on a lot if you don’t.  
   
 You might be wondering about the pop culture thing. Well, have you ever wondered why 42 is a prevalent number? Part of that is because the number was said to be the answer to life, the universe, and everything. Why is “Don’t Panic” common? It’s said to be the cover of The Guide. Many parts of pop culture are influenced by literature, and that includes The Hitchhiker’s Guide to the Galaxy.  

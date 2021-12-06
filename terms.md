@@ -2,7 +2,7 @@
 title: ∣ Terms ∣
 permalink: /terms/
 ---
-
+# Terms
 Hello! Welcome to this website-book. It took a while to make, and I hope that you like it. I do, however, have to define some terms in order to make sure that everyone understands.<br>
 <br>
 The Hitchhiker’s Guide to the Galaxy: The book this is about.<br>
